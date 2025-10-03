@@ -41,7 +41,7 @@ It helps organizations manage employee records, project assignments, salary trac
 ## 📂 Project Structure
 
 ```
-E/
+src/
 ├── aboutus.html        # About us page
 ├── addemp.php          # Add employee form (Admin)
 ├── alogin.html         # Admin login
@@ -76,7 +76,7 @@ E/
    - Start Apache and MySQL.
    - Open in browser:
      ```
-     http://localhost/EMS/E/index.html
+     http://localhost/EMS/src/index.html
      ```
 
 ---
